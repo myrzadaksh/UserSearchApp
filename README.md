@@ -34,7 +34,7 @@ npm install react-redux
 ```bash
 npm run dev
 ```
-### Open in browser localhost
+### 2. Open in browser localhost
 
 
 
