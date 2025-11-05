@@ -19,5 +19,19 @@ The project uses **Redux Toolkit** for state management and **Axios** for API re
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/myrzadaksh/UserSearchApp.git
+```
+### 1. Navigate into the project folder
+```bash
 cd UserSearchApp
+```
+```bash
+npm install axios
+```
+```bash
+npm install @reduxjs/toolkit
+```
+```bash
+npm install react-redux
+```
+
 
