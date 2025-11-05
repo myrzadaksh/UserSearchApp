@@ -8,8 +8,7 @@ The project uses **Redux Toolkit** for state management and **Axios** for API re
 ## 🛠️ Technologies Used
 
 - **React** (Vite)
-- **Redux Toolkit**
-- **React Redux**
+- Redux-toolkits
 - **Axios**
 
 ---
