@@ -19,5 +19,5 @@ The project uses **Redux Toolkit** for state management and **Axios** for API re
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/myrzadaksh/UserSearchApp.git
-
+cd UserSearchApp
 
